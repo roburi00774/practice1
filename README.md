@@ -1,4 +1,4 @@
-# practice1
+# ABOUT ME
 FIRST REPO- PRESENTATION PROFILE
 
 {![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT49dsa8XK7AJrg9LuSEphJ2WYNzHeyskL2EA&s)
